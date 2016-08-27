@@ -1,0 +1,6 @@
+SPECIAL NOTE: The "input" function (used for manual tile info, doors, etc)
+doesn't allow you to use the "backspace" key. All backspace does is erase
+the entire value you just entered, except it doesn't erase it from the
+screen (DOH!). Just a bug I have to fix but you should be aware of it anyway.
+So you can use backspace but it erases the entire value instead of just one
+digit, and the next thing you type gets drawn over the old numbers.

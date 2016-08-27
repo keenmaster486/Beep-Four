@@ -1,0 +1,14 @@
+0 - Nothing
+1 - Complete Blocking
+2 - Block on top
+3 - Door: Opens to key
+4 - Animated
+5 - Item
+6 - Exit sign
+7 - Pole
+8 - Slope
+9 - End of map
+10 - Portal
+11 - Horizontal Door
+12 - Elevator
+13 - Switch

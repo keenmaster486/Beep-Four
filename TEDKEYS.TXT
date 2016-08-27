@@ -1,0 +1,45 @@
+KGE4 TED commands:
+
+Mouse movement: Scroll level
+Left Mouse Button: Place tile in foreground
+Right Mouse Button: Remove tile from foreground
+
+B		Place tile in background
+M		Place tile in midground
+Shift+B		Remove tile from background
+Shift+M		Remove tile from midground
+C               Copy Mode (left click for upper left corner,
+                           right click for lower right corner)
+P               Paste background tiles
+Left Shift+P    Paste foreground tiles
+Right Shift+P   Paste midground tiles
+D		Clear entire level
+Space		Select a tile
+Alt+S           Save Level
+Esc             Exit (save first!)
+
+
+(while in tile selection screen)
+
+Left Mouse Button: Select tile
+Right Mouse Button: Change tile properties
+
+(while in tile properties screen)
+Up, Down arrow keys: Change tile property
+U, D keys: Change tile info 1
+M: Change values manually (for advanced usage, e.g. slopes, animations)
+
+Tile properties:
+
+1	Complete Blocking
+2	Block on top
+3	Door (opens to key)
+4	Animated (w/next 3)
+5	Item
+6	Exit sign
+7	Pole
+8	Slope (info determines degree)
+9	End of map
+10	Level enter info
+11	Teleporter info
+    (this info might be wrong as it's kind of old)

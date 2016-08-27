@@ -1,0 +1,14 @@
+How to do slopes:
+
+For each tile which Keen will actually stand on (be careful, many of them
+he will simply be in front of. Only get the ones he's actually standing
+on!), you must do the following:
+
+1. Figure out the following values:
+        A. The slope's height above the bottom left corner of the tile
+        B. The slope's height above the bottom right corner of the tile
+
+2. Set the tile type to "Slope"
+3. Press M to set tile info values manually
+4. Set the tile info 1 to value A
+5. Set the tile info 2 to value B

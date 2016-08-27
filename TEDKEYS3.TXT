@@ -1,0 +1,15 @@
+How to do doors ("portals"):
+
+1. Check the tile properties of the BOTTOM TILES of the door
+   to make sure they're set to "Portal".
+2. Place your two doors, in the MIDGROUND.
+3. Write down the coordinates of both bottom tiles of the
+   destination door, then add 11000 to each of them.
+4. Now we have to use a special function, the "manual foreground tile"
+   function. Use the combination "Shift + Left Click" and some text
+   will appear at the top of the screen (kind of hard to see) which
+   says "Input manual foreground tile value:". Input the x-coordinate
+   of the destination door into the left bottom tile, and the y-coordinate
+   into the right bottom tile (including the 11000 you added). Some
+   numbers should appear there to certify that it actually did it. Do
+   this for both doors and you should be good to go!

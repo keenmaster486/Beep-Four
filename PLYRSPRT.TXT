@@ -1,0 +1,112 @@
+Player sprites for KGE4:
+
+(These all are oriented to the right; the program flips them automatically)
+
+
+0001. Standing
+0002. Walking 1
+0003. Walking 2
+0004. Walking 3
+0005. Walking 4
+0006. Jumping
+0007. Midair
+0008. Falling down
+0009. Looking down
+0010. Looking up
+0011. Shooting sideways
+0012. Shooting sideways midair
+0013. Shooting sideways on pole
+0014. Shooting up
+0015. Shooting up midair
+0016. Shooting up on pole
+0017. Shooting down
+0018. Shooting down on pole
+0019. Climbing pole 1
+0020. Climbing pole 2
+0021. Climbing pole 3
+0022. Sliding down pole 1
+0023. Sliding down pole 2
+0024. Sliding down pole 3
+0025. Sliding down pole 4
+0026. Pogo stick 1
+0027. Pogo stick 2
+0028. Going into door 1
+0029. Going into door 2
+0030. Going into door 3
+0031. Going into door 4
+0032. Going into door 5
+0033. Hanging onto ledge
+0034. Getting up 1
+0035. Getting up 2
+0036. Getting up 3
+0037. Getting up 4
+0038. Dying 1
+0039. Dying 2
+
+
+
+Key:
+Original Keen 4 Sprite #=New KGE4 #
+
+6=1. Standing
+7=2. Walking 1
+8=3. Walking 2
+9=4. Walking 3
+10=5. Walking 4
+11=6. Jumping
+12=7. Midair
+13=8. Falling down
+22=9. Looking up
+23=10. Looking at player, eyes closed
+24=11. ", eyes open
+25=12. Shrugging
+26=13. Reaching into pocket
+27=15. Pulling out book 1
+28=16. Pulling out book 2
+29=17. Pulling out book 3
+30=18. Reading book
+31=19. Turning page 1
+32=20. Turning page 2
+33=21. Getting back up 1
+34=22. Getting back up 2
+35=23. Getting back up 3
+36=24. Looking down 1
+37=25. Looking down 2
+38=26. Dying 1
+39=27. Dying 2
+45=28. Shooting down
+46=29. Shooting up in midair
+47=30. Shooting up while standing
+48=31. Shooting while standing
+49=32. Shooting in midair
+56=33. Climbing pole 1
+57=34. Climbing pole 2
+58=35. Climbing pole 3
+59=36. Sliding down pole 1
+60=37. Sliding down pole 2
+61=38. Sliding down pole 3
+62=39. Sliding down pole 4
+67=40. Shooting up while on pole
+68=41. Shooting down while on pole
+71=42. Shooting while on pole
+72=43. Going into door 1
+73=44. Going into door 2
+74=45. Going into door 3
+75=46. Going into door 4
+76=47. Going into door 5
+78=48. Hanging on ledge
+83=49. Getting up from ledge 1
+84=50. Getting up from ledge 2
+85=51. Getting up from ledge 3
+86=52. Getting up from ledge 4
+87=53. Pogo stick
+88=54. Pogo stick scrunched
+133=55. World map walking right 1
+134=56. World map walking right 2
+135=57. World map walking right 3
+136=58. World map walking up 1
+137=59. World map walking up 2
+138=60. World map walking up 3
+
+
+

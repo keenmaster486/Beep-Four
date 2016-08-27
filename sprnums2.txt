@@ -1,0 +1,14 @@
+pfr.wm.walk.left1=254
+pfr.wm.walk.left3=256
+right1=257
+right3=259
+up1=260
+up3=262
+down1=263
+down3=265
+downright=266-268
+downleft=269-271
+upleft=272=274
+upright=275-277
+waving=278,279
+swimming=ahh, forget about swimming for now.

@@ -1,0 +1,40 @@
+How to do animations:
+
+1. In tile selection mode, write down the index
+   numbers of the tiles you're animating
+2. Right click on first tile of animation
+3. Now you're in "change tile properties" mode.
+   Use the arrow keys to change the tile type
+   to "Animated". Now press M to change the
+   tile info values manually.
+4. There are five (5) tile info values. Here's
+   how they're constructed for animated tiles:
+
+   Tile info 1: Number of total animated tiles
+   Tile infos 2-5: Index values of remaining tiles
+                   (those numbers you wrote down earlier)
+                   (Enter 0 for tiles past the number you want)
+
+Example: For a set of three animated tiles (numbers 2114, 2116, 2118),
+         you would have the following values:
+
+         Tile index number: 2114
+         Tile type: Animated
+         Tile info 1: 3 [total number of tiles]
+         Tile info 2: 2116
+         Tile info 3: 2118
+         Tile info 4: 0 [not needed]
+         Tile info 5: 0 [not needed]
+
+Example 2: For a set of four animated tiles (numbers 345, 346, 347, 348):
+
+           Tile index number: 345
+           Tile type: Animated
+           Tile info 1: 4
+           Tile info 2: 346
+           Tile info 3: 347
+           Tile info 4: 348
+           Tile info 5: 0 [not needed]
+
+Actually, tile info 5 isn't really used; it's just there for if we might
+need it later for something like elevators, maybe.
