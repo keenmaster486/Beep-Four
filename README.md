@@ -1,7 +1,7 @@
 # Beep-Four
 An open source DOS game written in Quick Basic 4.5. Yes, it can be done!
 
-Codenamed Beep-Four (or BEEP4) but the name of the engine used in the game is Keen Game Engine 4, or KGE4.
+Codenamed Beep-Four (or BEEP4) but the name of the engine used in the game is Keen Game Engine 4, or KGE4, which was originally intended as a clone of ID Software's Commander Keen 4.
 
 The engine for this game was programmed from the ground up in QB45 utilizing the excellent DirectQB library. Of course it does have limitations, but these are ALL due to QB's crappy math and logic routines, which are very slow. The graphics routines are blazing fast; if you cut out the math and logic and just run the graphics, you get more than twice the fps. Unfortunately I have everything as optimized as it's going to get. Oh well.
 
